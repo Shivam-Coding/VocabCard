@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VocabCard</string>
+    <string name="title_section1">Journal</string>
+    <string name="title_section2">Add Word</string>
+    <string name="title_section3">Revise</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-2785868738816505/4057985672</string>
+
+    <string-array name= "det">
+        <item>hello</item>
+        <item>hi</item>
+        <item>bye</item>
+        <item>good</item>
+    </string-array>
+</resources>
